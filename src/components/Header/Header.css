@@ -1,0 +1,8 @@
+
+html{
+    background-image: linear-gradient(to left top, #041329, #021232, #04113a, #0e0d40, #1c0544);
+}
+
+html.light{
+    background-image: linear-gradient(to bottom, #e0e4ea, #ccd6ed, #bdc5ee, #b6b4ed, #b6a0e8);
+}
